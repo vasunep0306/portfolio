@@ -42,3 +42,12 @@ img {
 h1 {
     text-align: center;
 }
+
+#info_paragraph {
+    text-align: center;
+    margin: 2%;
+    padding: 1%;
+    font-weight: bold;
+    font-family: monospace;
+    font-size: 30px;
+}
